@@ -9,7 +9,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/Sanjaymavi/HCL-Interview-GithubActions.git
+    repoURL: https://github.com/Sanjaymavi/HCL-Github-Actions-Helm.git
     targetRevision: main
     path: helm/order-service
 
