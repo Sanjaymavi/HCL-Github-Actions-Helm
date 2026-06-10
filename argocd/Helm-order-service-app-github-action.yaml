@@ -2,7 +2,7 @@ apiVersion: argoproj.io/v1alpha1
 kind: Application
 
 metadata:
-  name: order-service-github-action
+  name: helm-order-service-github-action
   namespace: argocd
 
 spec:

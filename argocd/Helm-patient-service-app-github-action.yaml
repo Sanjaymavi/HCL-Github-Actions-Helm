@@ -2,7 +2,7 @@ apiVersion: argoproj.io/v1alpha1
 kind: Application
 
 metadata:
-  name: patient-service-github-action
+  name: helm-patient-service-github-action
   namespace: argocd
 
 spec:

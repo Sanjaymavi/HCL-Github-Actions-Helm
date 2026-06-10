@@ -2,7 +2,7 @@ apiVersion: argoproj.io/v1alpha1
 kind: Application
 
 metadata:
-  name: application-service-github-action
+  name: helm-application-service-github-action
   namespace: argocd
 
 spec:
